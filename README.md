@@ -23,3 +23,5 @@ Elektrische oven: 45 minuten op 200 graden.
 Met een vork prikken om te kijken of de Bojo goed gebakken is.*
 
 ![Bojo](bojo.jpg)
+
+[filmpje](https://www.youtube.com/watch?v=kOuuS48u0rs)
